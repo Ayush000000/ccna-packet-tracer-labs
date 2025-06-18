@@ -1,2 +1,12 @@
-# ccna-packet-tracer-labs
-A collection of CCNA practical labs built using Cisco Packet Tracer. Includes hands-on exercises for VLANs, routing protocols, ACLs, DHCP, NAT, and basic device configuration. Ideal for learning and reinforcing CCNA networking concepts through simulation.
+📘 CCNA Practical Labs – Cisco Packet Tracer
+This repository contains practical lab exercises and network simulations I completed as part of my CCNA (Cisco Certified Network Associate) training using Cisco Packet Tracer. The labs cover a range of networking concepts including:
+
+  Basic Router and Switch Configuration
+  VLANs and Inter-VLAN Routing
+  Static and Dynamic Routing (RIP, OSPF, EIGRP)
+  Access Control Lists (ACLs)
+  DHCP and NAT Configuration
+  Network Topologies and Troubleshooting
+
+I have mentioned configuration in files.
+These files are intended for learning and reference purposes. Each .pkt file represents a practical scenario designed to reinforce core networking concepts aligned with the CCNA certification syllabus.
